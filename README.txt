@@ -1,11 +1,17 @@
 
 TITLE: 
 Flurgo Pre-Launch Page
+<<<<<<< HEAD
 
 
 AUTHOR:
 DESIGNED & DEVELOPED by www.techweirdo.in
 
+=======
+
+AUTHOR:
+DESIGNED & DEVELOPED by techweirdo.in
+>>>>>>> b2fe13b3b82910c80f026d3d5ee9639d8e0824e3
 
 
 CREDITS:
